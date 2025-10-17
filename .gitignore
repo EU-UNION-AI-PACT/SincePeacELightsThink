@@ -1,0 +1,23 @@
+# Persönliche Tagebuch-Einträge
+# Wenn du persönliche Kopien der Seiten erstellst, füge hier die Muster hinzu
+# Beispiele:
+# *-persoenlich.md
+# meine-*.md
+# *-2024-*.md
+# *-2025-*.md
+
+# Du kannst auch ganze Verzeichnisse für private Einträge ausschließen:
+# kapitel/*/themen/*/privat/
+# meine-gedanken/
+
+# Temporäre Dateien
+*.tmp
+*.bak
+*~
+
+# Editor-spezifische Dateien
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
